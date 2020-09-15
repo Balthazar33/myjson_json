@@ -1,0 +1,20 @@
+{
+  "inputs": [
+      {"tag":"greeting",
+        "user_input":["hey","hello","hi","good morning","hey there"],
+        "responses":["Hi, how can I help you?","What would you like to know about?"]
+    },
+      {"tag":"goodbye",
+        "user_input":["bye","goodbye","see you","good bye"],
+        "responses":["Bye!","See you soon","Take care"]
+    },
+    {"tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+       },
+       {"tag": "payments",
+        "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
+        "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+       }
+  ]  
+}
