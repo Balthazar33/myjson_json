@@ -9,11 +9,11 @@
         "responses":["Bye!","See you soon","Take care"]
     },
     {"tag": "thanks",
-        "patterns": ["Thanks", "Thank you", "That's helpful"],
+        "user_input": ["Thanks", "Thank you", "That's helpful"],
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
        },
        {"tag": "payments",
-        "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
+        "user_input": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
         "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
        }
   ]  
