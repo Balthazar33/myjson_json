@@ -18,7 +18,7 @@
        },
       {"tag": "finance",
           "user_input": ["Can I redeem my FB before the original term?", "How do I pay my Credit card bill?", "How can I get my Account Statement?","What is the tenure of Fixed Deposit?" ],
-          "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+          "responses": ["Yes, you can", "Visit www.help.com","Visit your profile page","Ten years"]
          }
   ]  
 }
