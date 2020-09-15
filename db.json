@@ -2,7 +2,7 @@
   "inputs": [
       {"tag":"greeting",
         "user_input":["hey","hello","hi","good morning","hey there"],
-        "responses":["Hi, how can I help you?","What would you like to know about?"]
+        "responses":["Hi, how can I help you?","Hi! What would you like to know about?","Hello, how can I help you?","Hey there"]
     },
       {"tag":"goodbye",
         "user_input":["bye","goodbye","see you","good bye"],
