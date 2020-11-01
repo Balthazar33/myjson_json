@@ -16,9 +16,9 @@
         "user_input": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
         "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
        },
-      {"tag": "finance",
-          "user_input": ["Can I redeem my FB before the original term?", "How do I pay my Credit card bill?", "How can I get my Account Statement?","What is the tenure of Fixed Deposit?" ],
-          "responses": ["Yes, you can", "Visit www.help.com","Visit your profile page","Ten years"]
+      {"tag": "vue_faqs",
+          "user_input": ["Why would you choose Vue.js over other front-end frameworks?", "What are mixins?", "What is a single-file component?","What is the virtual DOM?" ],
+          "responses": ["https://vuejs.org/v2/guide/comparison.html", "Mixin support is a feature that allows code reuse between components in a Vue.js application and a software composition tool.","A single-file component is a file with a .vue extension that contains a Vue component. It contains the component’s template, logic, and styles all bundled together in one file. It consists of one <script> block, optional <template> and <style> blocks, and possible additional custom blocks.","The virtual DOM is a tree-like data structure (or a collection) of JavaScript objects representing DOM nodes that are managed by Vue.js and that should be rendered on the page."]
          }
   ]  
 }
