@@ -9,12 +9,8 @@
         "responses":["Bye!","See you soon","Take care"]
     },
     {"tag": "thanks",
-        "user_input": ["Thanks", "Thank you", "That's helpful"],
+        "user_input": ["Thanks", "Thank you", "That's helpful","Ty"],
         "responses": ["Happy to help!", "Any time!", "My pleasure"]
-       },
-       {"tag": "payments",
-        "user_input": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
-        "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
        },
       {"tag": "vue_faqs",
           "user_input": ["Why would you choose Vue.js over other front-end frameworks?", "What are mixins?", "What is a single-file component?","What is the virtual DOM?" ],
